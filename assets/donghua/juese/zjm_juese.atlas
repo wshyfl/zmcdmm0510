@@ -1,0 +1,160 @@
+
+zjm_juese.png
+size: 189,517
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bizi
+  rotate: true
+  xy: 127, 122
+  size: 9, 13
+  orig: 11, 16
+  offset: 1, 1
+  index: -1
+faqia
+  rotate: true
+  xy: 2, 228
+  size: 119, 90
+  orig: 121, 92
+  offset: 1, 1
+  index: -1
+js_body
+  rotate: false
+  xy: 42, 117
+  size: 83, 109
+  orig: 83, 109
+  offset: 0, 0
+  index: -1
+js_dou1
+  rotate: true
+  xy: 127, 133
+  size: 14, 42
+  orig: 17, 46
+  offset: 1, 2
+  index: -1
+js_dou2
+  rotate: true
+  xy: 127, 6
+  size: 17, 36
+  orig: 19, 38
+  offset: 1, 1
+  index: -1
+js_dou3
+  rotate: true
+  xy: 102, 3
+  size: 20, 23
+  orig: 23, 26
+  offset: 1, 2
+  index: -1
+js_hair
+  rotate: true
+  xy: 102, 25
+  size: 90, 85
+  orig: 92, 87
+  offset: 1, 1
+  index: -1
+meimao1
+  rotate: true
+  xy: 94, 84
+  size: 16, 5
+  orig: 19, 8
+  offset: 2, 1
+  index: -1
+meimao2
+  rotate: true
+  xy: 179, 7
+  size: 16, 8
+  orig: 18, 10
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 94, 259
+  size: 84, 88
+  orig: 86, 90
+  offset: 1, 1
+  index: -1
+toufa1
+  rotate: false
+  xy: 2, 349
+  size: 105, 166
+  orig: 105, 166
+  offset: 0, 0
+  index: -1
+tui1
+  rotate: false
+  xy: 2, 3
+  size: 98, 62
+  orig: 98, 62
+  offset: 0, 0
+  index: -1
+tui2
+  rotate: true
+  xy: 127, 149
+  size: 108, 60
+  orig: 108, 60
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 165, 2
+  size: 21, 12
+  orig: 23, 14
+  offset: 1, 1
+  index: -1
+yan2
+  rotate: true
+  xy: 171, 128
+  size: 19, 12
+  orig: 21, 14
+  offset: 1, 1
+  index: -1
+yifu1
+  rotate: true
+  xy: 109, 392
+  size: 69, 46
+  orig: 71, 48
+  offset: 1, 1
+  index: -1
+yifu2
+  rotate: true
+  xy: 94, 229
+  size: 28, 31
+  orig: 30, 33
+  offset: 1, 1
+  index: -1
+yinying
+  rotate: true
+  xy: 2, 67
+  size: 159, 38
+  orig: 161, 40
+  offset: 1, 1
+  index: -1
+youbi
+  rotate: false
+  xy: 42, 69
+  size: 50, 46
+  orig: 52, 48
+  offset: 1, 1
+  index: -1
+zui
+  rotate: true
+  xy: 94, 102
+  size: 13, 6
+  orig: 15, 8
+  offset: 1, 1
+  index: -1
+zuobi1
+  rotate: true
+  xy: 109, 360
+  size: 30, 61
+  orig: 32, 63
+  offset: 1, 1
+  index: -1
+zuobi2
+  rotate: true
+  xy: 109, 463
+  size: 52, 49
+  orig: 54, 52
+  offset: 1, 2
+  index: -1

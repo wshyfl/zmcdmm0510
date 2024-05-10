@@ -1,0 +1,18 @@
+{
+  "package": "com.wbgame.dmm.vivominigame",
+  "name": "躲猫猫",
+  "icon": "D:\\XM\\duoMaoMao\\duomaomao_2.4.4\\icon-22.07.25-256.png",
+  "versionName": "1.0.0",
+  "versionCode": "1",
+  "minPlatformVersion": "1093",
+  "deviceOrientation": "landscape",
+  "logLevel": "log",
+  "npmPath": "",
+  "tinyPackageServer": "",
+  "useDebugKey": false,
+  "privatePath": "C:\\Users\\Administrator\\Desktop\\aakeys\\private.pem",
+  "certificatePath": "C:\\Users\\Administrator\\Desktop\\aakeys\\certificate.pem",
+  "disabledMode": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

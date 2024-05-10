@@ -1,0 +1,55 @@
+
+tufu2.png
+size: 300,490
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1huangfu
+  rotate: false
+  xy: 254, 416
+  size: 43, 72
+  orig: 43, 72
+  offset: 0, 0
+  index: -1
+1shenti
+  rotate: true
+  xy: 2, 336
+  size: 152, 250
+  orig: 152, 250
+  offset: 0, 0
+  index: -1
+1tou
+  rotate: true
+  xy: 178, 231
+  size: 103, 120
+  orig: 103, 120
+  offset: 0, 0
+  index: -1
+1tou2
+  rotate: false
+  xy: 254, 380
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+1zb
+  rotate: true
+  xy: 178, 29
+  size: 142, 83
+  orig: 142, 83
+  offset: 0, 0
+  index: -1
+2gb1
+  rotate: true
+  xy: 178, 173
+  size: 56, 118
+  orig: 56, 118
+  offset: 0, 0
+  index: -1
+2shenti
+  rotate: false
+  xy: 2, 2
+  size: 174, 332
+  orig: 174, 332
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "4fa1e20e-5204-4826-b489-ca9ea1762747",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 567,
+  "height": 63,
+  "platformSettings": {},
+  "subMetas": {
+    "单人对抗": {
+      "ver": "1.0.4",
+      "uuid": "61e1eb13-2de7-4523-bca4-11f6dfda2774",
+      "rawTextureUuid": "4fa1e20e-5204-4826-b489-ca9ea1762747",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 567,
+      "height": 63,
+      "rawWidth": 567,
+      "rawHeight": 63,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

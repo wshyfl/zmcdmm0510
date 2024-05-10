@@ -1,0 +1,32 @@
+{
+  "ver": "1.1.2",
+  "uuid": "54fe4cad-c357-49ba-a504-58a0841163c9",
+  "isBundle": true,
+  "bundleName": "scenes",
+  "priority": "1",
+  "compressionType": {
+    "bytedance": "subpackage",
+    "qgame": "subpackage",
+    "quickgame": "subpackage",
+    "wechatgame": "subpackage"
+  },
+  "optimizeHotUpdate": {
+    "bytedance": false,
+    "qgame": false,
+    "quickgame": false,
+    "wechatgame": false
+  },
+  "inlineSpriteFrames": {
+    "bytedance": false,
+    "qgame": false,
+    "quickgame": false,
+    "wechatgame": false
+  },
+  "isRemoteBundle": {
+    "bytedance": false,
+    "qgame": false,
+    "quickgame": false,
+    "wechatgame": false
+  },
+  "subMetas": {}
+}

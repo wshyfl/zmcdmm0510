@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "8c5f9f5c-2666-4419-a9c3-e8811061749d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 233,
+  "height": 90,
+  "platformSettings": {},
+  "subMetas": {
+    "sd_btn_bianShen_1": {
+      "ver": "1.0.4",
+      "uuid": "6e0d9291-f294-402e-9158-749c44d7f33d",
+      "rawTextureUuid": "8c5f9f5c-2666-4419-a9c3-e8811061749d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 0,
+      "width": 232,
+      "height": 90,
+      "rawWidth": 233,
+      "rawHeight": 90,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

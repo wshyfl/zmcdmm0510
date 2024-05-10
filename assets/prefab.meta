@@ -1,0 +1,20 @@
+{
+  "ver": "1.1.2",
+  "uuid": "08b91cb5-318e-4b52-8390-ee2aa387cc29",
+  "isBundle": false,
+  "bundleName": "prefab",
+  "priority": "4",
+  "compressionType": {
+    "bytedance": "subpackage"
+  },
+  "optimizeHotUpdate": {
+    "bytedance": false
+  },
+  "inlineSpriteFrames": {
+    "bytedance": false
+  },
+  "isRemoteBundle": {
+    "bytedance": false
+  },
+  "subMetas": {}
+}

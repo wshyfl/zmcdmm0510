@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "ef178bb0-f023-40f2-9d15-4b7a2c133921",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 307,
+  "height": 23,
+  "platformSettings": {},
+  "subMetas": {
+    "超强角色，自带指路牌和卧底符": {
+      "ver": "1.0.4",
+      "uuid": "6be43cae-2b06-4933-89bb-66c6aff3a78c",
+      "rawTextureUuid": "ef178bb0-f023-40f2-9d15-4b7a2c133921",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 307,
+      "height": 23,
+      "rawWidth": 307,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

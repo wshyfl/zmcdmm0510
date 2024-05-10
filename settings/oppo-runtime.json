@@ -1,0 +1,18 @@
+{
+  "package": "com.wbgame.mgxsdmm.nearme.gamecenter",
+  "name": "猛鬼校舍躲猫猫",
+  "icon": "D:\\XM\\duoMaoMao\\duomaomao_2.4.4\\icon-22.07.25-256.png",
+  "versionName": "1.0.2",
+  "versionCode": "3",
+  "minPlatformVersion": "1076",
+  "deviceOrientation": "landscape",
+  "logLevel": "log",
+  "tinyPackageServer": "",
+  "useDebugKey": false,
+  "privatePath": "C:\\Users\\Administrator\\Desktop\\aakeys\\private.pem",
+  "certificatePath": "C:\\Users\\Administrator\\Desktop\\aakeys\\certificate.pem",
+  "disabledMode": "",
+  "npmPath": "",
+  "showNpmPath": false,
+  "packFirstScreenRes": false
+}

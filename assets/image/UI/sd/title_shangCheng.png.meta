@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "7caa699e-c111-432a-a1a6-9ae021fcf3a7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 236,
+  "height": 112,
+  "platformSettings": {},
+  "subMetas": {
+    "title_shangCheng": {
+      "ver": "1.0.4",
+      "uuid": "e51f744f-c967-4dd2-8076-c28257c21292",
+      "rawTextureUuid": "7caa699e-c111-432a-a1a6-9ae021fcf3a7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 112,
+      "rawWidth": 236,
+      "rawHeight": 112,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

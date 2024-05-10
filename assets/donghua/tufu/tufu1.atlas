@@ -1,0 +1,160 @@
+
+tufu1.png
+size: 210,740
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_jd1
+  rotate: false
+  xy: 2, 607
+  size: 141, 131
+  orig: 141, 132
+  offset: 0, 0
+  index: -1
+b_jd2
+  rotate: false
+  xy: 2, 455
+  size: 109, 150
+  orig: 110, 152
+  offset: 1, 1
+  index: -1
+b_st
+  rotate: false
+  xy: 131, 144
+  size: 77, 198
+  orig: 77, 198
+  offset: 0, 0
+  index: -1
+b_yb1
+  rotate: false
+  xy: 113, 551
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+b_yb2
+  rotate: true
+  xy: 70, 126
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+b_yt
+  rotate: false
+  xy: 145, 523
+  size: 29, 122
+  orig: 29, 122
+  offset: 0, 0
+  index: -1
+b_zb1
+  rotate: false
+  xy: 113, 495
+  size: 29, 54
+  orig: 29, 54
+  offset: 0, 0
+  index: -1
+b_zb2
+  rotate: true
+  xy: 2, 111
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+b_zt
+  rotate: false
+  xy: 176, 523
+  size: 29, 122
+  orig: 29, 122
+  offset: 0, 0
+  index: -1
+z_jd1
+  rotate: true
+  xy: 2, 284
+  size: 169, 92
+  orig: 170, 92
+  offset: 0, 0
+  index: -1
+z_jd2
+  rotate: true
+  xy: 144, 344
+  size: 177, 64
+  orig: 178, 65
+  offset: 0, 1
+  index: -1
+z_st
+  rotate: false
+  xy: 2, 157
+  size: 66, 125
+  orig: 66, 125
+  offset: 0, 0
+  index: -1
+z_tuo
+  rotate: false
+  xy: 2, 10
+  size: 101, 99
+  orig: 101, 99
+  offset: 0, 0
+  index: -1
+z_tuo2
+  rotate: false
+  xy: 105, 2
+  size: 100, 98
+  orig: 100, 98
+  offset: 0, 0
+  index: -1
+z_yb1
+  rotate: false
+  xy: 93, 225
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+z_yb2
+  rotate: true
+  xy: 70, 222
+  size: 60, 21
+  orig: 60, 21
+  offset: 0, 0
+  index: -1
+z_yt1
+  rotate: true
+  xy: 70, 172
+  size: 48, 49
+  orig: 48, 50
+  offset: 0, 0
+  index: -1
+z_yt2
+  rotate: false
+  xy: 96, 332
+  size: 33, 98
+  orig: 33, 98
+  offset: 0, 0
+  index: -1
+z_zb1
+  rotate: false
+  xy: 96, 278
+  size: 31, 52
+  orig: 31, 52
+  offset: 0, 0
+  index: -1
+z_zb2
+  rotate: true
+  xy: 121, 102
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+z_zt1
+  rotate: false
+  xy: 113, 432
+  size: 22, 61
+  orig: 22, 61
+  offset: 0, 0
+  index: -1
+z_zt2
+  rotate: false
+  xy: 145, 647
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1

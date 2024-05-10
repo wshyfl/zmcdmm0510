@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.5",
+  "uuid": "28f8619f-5080-4118-b853-36a8b3b7328b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 14,
+  "height": 15,
+  "platformSettings": {},
+  "subMetas": {
+    "tips_dengDaiRenLeiDuoCang 拷贝": {
+      "ver": "1.0.4",
+      "uuid": "2881c4e8-71d5-46d9-b19a-77bb7d009f86",
+      "rawTextureUuid": "28f8619f-5080-4118-b853-36a8b3b7328b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 14,
+      "height": 15,
+      "rawWidth": 14,
+      "rawHeight": 15,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
